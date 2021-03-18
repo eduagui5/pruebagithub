@@ -3,3 +3,11 @@ main {
     color: goldenrod;
     text-align: center;
 }
+
+.cabecera {
+    font-size: 24px;
+    color:violet;
+    background-color:mintcream;
+    text-align: center;
+    font-weight: bold;
+}
